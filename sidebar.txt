@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jab:home|Door43 (jab)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jab|d43-jab repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jab/archive/master.zip|d43-jab.zip]]
+
+**Recent Changes**
+{{changes>ns = jab}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jab|Ethnologue data]]
+
